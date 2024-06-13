@@ -1,0 +1,26 @@
+
+body {
+
+   background-color: rgb(204, 175, 162); 
+}
+
+
+
+
+.col {
+color: white;
+display: flex;
+justify-content: center;
+align-items: center;
+height: 200px;
+margin: 5px;
+}
+
+
+.carousel-item {
+
+height: 550px;
+
+}
+
+
